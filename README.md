@@ -1,6 +1,7 @@
 # Base code of Quantum Reinforcement Learning
 ---
 # Introduction
+
 This repository is based on [CleanRL](https://github.com/vwxyzjn/cleanrl)
 ---
 # Get Started
