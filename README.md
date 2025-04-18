@@ -1,6 +1,9 @@
 # Base code of Quantum Reinforcement Learning
-
-## Get Started
+---
+# Introduction
+This repository is based on [CleanRL](https://github.com/vwxyzjn/cleanrl)
+---
+# Get Started
 ```terminal
 git clone 'copied url'
 cd Quantum_RL
